@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 const Home = () => {
     return (
-        <>
+        <div>
             <NavBar />
             <div className="container">
                 <div className="jumbotron">
@@ -19,7 +19,6 @@ const Home = () => {
             </div>
             <Footer />
         </div>
-        </>
     );
 }
 
