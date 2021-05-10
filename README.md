@@ -1,5 +1,5 @@
 # projeto-sds3
-Curso finalizado: https://fernanda-dsvendas.netlify.app/
+App desenvolvido: https://fernanda-dsvendas.netlify.app/
 
 Linguagens:
 * Java + Springboot
